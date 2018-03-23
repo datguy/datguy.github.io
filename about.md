@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+For now, this site is generated from Markdown with [Jekyll](https://jekyllrb.com/) using the [minima](https://github.com/jekyll/minima) theme. 
+Jekyll source is available on GitHub: 
+[jekyll][jekyll-organization] 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
+I may add my resume, but these days [LinkedIn](https://www.linkedin.com/in/davidtregay/) seems to serve that purpose.
 
 [jekyll-organization]: https://github.com/jekyll

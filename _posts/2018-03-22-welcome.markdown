@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2018-03-22 19:27:40 -0400
+categories: update
+---
+I have enjoyed a long and successful career as a software developer, but it's time for me to refresh the basics.
+I have a good understanding of enterprise software development, and I can tackle most programming challenges.
+But in discussions I tend to gloss over unfamiliar terminology rather than trying to understand it.  That ends today.
+
+I plan to refamiliarize myself with important terminology, as well as characteristics of data structures, algoriithms, and patterns.
