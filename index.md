@@ -4,3 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+Java and others.
+
+Decades of experience.
+
+Time to learn some more.
