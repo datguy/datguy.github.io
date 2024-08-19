@@ -8,4 +8,4 @@ Java and others.
 
 Decades of experience.
 
-Time to learn some more.
+Time for something new.
